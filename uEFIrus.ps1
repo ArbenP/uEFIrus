@@ -1,7 +1,3 @@
-# uEFIrus.ps1 - EFI Bootloader Manipulation PoC
-# Author: Security Researcher
-# Purpose: Educational and research purposes only
-
 #Requires -RunAsAdministrator
 
 # Function to check if Secure Boot is disabled

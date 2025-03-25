@@ -94,7 +94,6 @@ By using this tool, you agree that:
 - You will **not use it on systems you do not own or have permission to test**.
 - You acknowledge the **risks of modifying EFI firmware** and take full responsibility for any consequences.
 
-If you are a security researcher, consider **responsible disclosure** if you discover real-world vulnerabilities related to this technique.
 
 ---
 
