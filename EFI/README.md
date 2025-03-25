@@ -2,6 +2,8 @@
 
 This is a simple UEFI application that displays "Hello World" on screen when executed from UEFI.
 
+# Work in progress - Doesn't work yet / Not Ready yet!!
+
 ## Prerequisites
 
 To build this application, you need:
