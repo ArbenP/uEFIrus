@@ -1,5 +1,8 @@
 # uEFIrus - EFI Bootloader Manipulation PoC
 
+# Work in progress - Doesn't work yet / Not Ready yet!!
+
+
 ## **⚠️ Disclaimer**
 **This tool is for educational and research purposes only.** It is designed as a **proof-of-concept** for red team assessments and security awareness. **Do not use this on unauthorized systems.**
 
